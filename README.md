@@ -2,9 +2,11 @@
 <h3 align="center">A passionate Android Developer from Batangas, PHL</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [Workout Tracker App](https://github.com/rckash/workout_tracker_app)
+- 🔭 I’m currently working on [Affirmation App](https://github.com/rckash/affirmation_app)
 
-- 🌱 I’m currently learning **Flutter Mobile Development**
+- 🌱 I’m currently learning **Flutter Development**
+
+- 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rckash](https://github.com/rckash)
 
