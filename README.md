@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter and Android Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rckash](https://github.com/rckash)
 
