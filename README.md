@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Workout Tracker App](https://github.com/rckash/workout_tracker_app)
 
-- 🌱 I’m currently learning **Clean Coding on Android Development**
+- 🌱 I’m currently learning **Flutter Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rckash](https://github.com/rckash)
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Kotlin, Android Development, Dart, Flutter Development**
 
 - 📫 How to reach me **rckashyapcpe@gmail.com**
 
