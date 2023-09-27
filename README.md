@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Kotlin, Android Development, Dart, Flutter Development**
 
-- 📫 How to reach me **rckashyapcpe@gmail.com**
+- 📫 Message me at **rckashyapcpe@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rc-kashyap/](https://www.linkedin.com/in/rc-kashyap/)
 
