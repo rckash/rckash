@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Android Developer from Batangas, PHL</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on [Affirmation App]([https://github.com/rckash/affirmation_app](https://github.com/rckash/affirmation_flutter_app))
+- 🔭 I’m currently working on [Affirmation App](https://github.com/rckash/affirmation_flutter_app)
 
 - 🌱 I’m currently learning **Flutter Development**
 
 - 👯 I’m looking to collaborate on **Flutter and Android Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rckash](https://github.com/rckash)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/rckash)
 
 - 💬 Ask me about **Kotlin, Android Development, Dart, Flutter Development**
 
