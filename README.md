@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rckashyapcpe@gmail.com**
 
-- - 🧠 Aut inveniam viat aut faciam - I shall either find a way or make one
+- 🧠 Aut inveniam viat aut faciam - I shall either find a way or make one
 
 - ⚡ Fun fact **I have a goat farm**
 
